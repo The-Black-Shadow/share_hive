@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737832148909",
+    "project_id": "share-hive-2024",
+    "storage_bucket": "share-hive-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737832148909:android:3631ab4b411a78287f8b24",
+        "android_client_info": {
+          "package_name": "com.example.share_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6jbvhfSA0MLGCjVqRHshFW6HyfbnqVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
